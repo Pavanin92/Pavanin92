@@ -1,5 +1,7 @@
 ### Olá, seja bem vindo ao meu Github 👋
 
+![banner](https://66.media.tumblr.com/520892af0f5de589e14c7433225c88c4/6eecbcf2c186905b-83/s500x750/c19a720da256bf3a929ffedab01139c554a53978.gif)
+
 Estou cursando a Graduação em **Sistemas de Informação** 👨‍💻.
 
 Gosto da área de Front-end. Tecnologias que estou estudando:
