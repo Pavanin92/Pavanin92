@@ -1,5 +1,7 @@
 ### Hi there! Welcome to my Github 👋
 
+<img src="https://github.com/Pavanin92/Pavanin92/blob/main/coding.jpg" height="350"/>
+
 I am studying **Information Systems** Graduation 👨‍💻.
 
 I like the Front-end area. Technologies I'm studying:
