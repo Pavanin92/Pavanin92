@@ -9,4 +9,4 @@ I like the Front-end area, and I'm studying theese technologies:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanin92)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavanin92&show_icons=true&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavanin92&show_icons=true&theme=omni)  
